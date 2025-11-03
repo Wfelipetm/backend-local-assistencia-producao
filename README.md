@@ -1,3 +1,5 @@
+TESTE
+
 # Backend Saúde (Python)
 
 Este serviço oferece interface gráfica e CLI para registro e identificação de digitais, usando a biblioteca NBioBSP COM.
